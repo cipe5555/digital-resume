@@ -16,16 +16,16 @@ PAGE_TITLE = "Digital CV | Chong Jack Pang"
 PAGE_ICON = ":wave:"
 NAME = "Chong Jack Pang"
 DESCRIPTION = """
-Senior Data Analyst, assisting enterprises by supporting data-driven decision-making.
+AI Fresh Graduted, Data & AI enthusiast.
 """
 EMAIL = "jpchong24@gmail.com"
 SOCIAL_MEDIA = {
-    "LinkedIn": "https://linkedin.com",
-    "GitHub": "https://github.com",
+    "LinkedIn": "https://www.linkedin.com/in/jack-pang-chong-520a0226b/",
+    "GitHub": "https://github.com/cipe5555",
 }
 PROJECTS = {
-    "🏆 Sales Dashboard - Comparing sales across three stores": "https://youtu.be/Sb0A9i6d320",
-    "🏆 Income and Expense Tracker - Web app with NoSQL database": "https://youtu.be/3egaMfE9388",
+    "🏆 Timetable Converter - Converting university timetable to calendar event with data engineering approach": "https://github.com/cipe5555/APU-Timetable-to-Google-Calendar",
+    "🏆 1st Runner-up in APU-AWS DeepRacer Competition 2023 - Autonomous car racing with Reinforcement Learning (RL)": "https://www.digitalnewsasia.com/business/apu-aws-deepracer-competition-2023-showcases-future-machine-learning-and-data-science",
     "🏆 Desktop Application - Excel2CSV converter with user settings & menubar": "https://youtu.be/LzCfNanQ_9c",
     "🏆 MyToolBelt - Custom MS Excel add-in to combine Python & Excel": "https://pythonandvba.com/mytoolbelt/",
 }
@@ -98,39 +98,19 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1
-st.write("🚧", "**Senior Data Analyst | Ross Industries**")
-st.write("02/2020 - Present")
+st.write("🚧", "**Data Science Intern | Hiredly**")
+st.write("08/2023 - 11/2023")
 st.write(
     """
-- ► Used PowerBI and SQL to redeﬁne and track KPIs surrounding marketing initiatives, and supplied recommendations to boost landing page conversion rate by 38%
-- ► Led a team of 4 analysts to brainstorm potential marketing and sales improvements, and implemented A/B tests to generate 15% more client leads
-- ► Redesigned data model through iterations that improved predictions by 12%
+- ► Performed ETL processes, handling and integrating 500,000+ data points to ensure efficient data management.
+- ► Designed and implemented automated task scheduling, reducing manual work by 30%, and developed 10+ automation scripts for routine tasks.
+- ► Research on developing 2 APIs for ML/Data Ops purposes.
+- ► Optimized the job recommendation system, resulting in a 5% improvement in matching accuracy than previous version and increased user engagement by 10%.
+- ► Research and utilize LLM models to build AI-powered virtual interviewer.
 """
 )
 
-# --- JOB 2
-st.write('\n')
-st.write("🚧", "**Data Analyst | Liberty Mutual Insurance**")
-st.write("01/2018 - 02/2022")
-st.write(
-    """
-- ► Built data models and maps to generate meaningful insights from customer data, boosting successful sales eﬀorts by 12%
-- ► Modeled targets likely to renew, and presented analysis to leadership, which led to a YoY revenue increase of $300K
-- ► Compiled, studied, and inferred large amounts of data, modeling information to drive auto policy pricing
-"""
-)
 
-# --- JOB 3
-st.write('\n')
-st.write("🚧", "**Data Analyst | Chegg**")
-st.write("04/2015 - 01/2018")
-st.write(
-    """
-- ► Devised KPIs using SQL across company website in collaboration with cross-functional teams to achieve a 120% jump in organic traﬃc
-- ► Analyzed, documented, and reported user survey results to improve customer communication processes by 18%
-- ► Collaborated with analyst team to oversee end-to-end process surrounding customers' return data
-"""
-)
 
 
 # --- Projects & Accomplishments ---
