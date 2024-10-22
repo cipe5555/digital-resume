@@ -112,7 +112,7 @@ st.write(
     """
 - 👩‍💻 **Programming**: Python, Java, C, C++, SQL, Kotlin, Matlab
 - 🛠️ **Data & AI Frameworks**: PyTorch, TensorFlow, Streamlit, Scikit-learn
-- 📊 **Data Visulization**: PowerBi, MS Excel, Matplotlib, Seaborn
+- 📊 **Data Visulization**: PowerBI, MS Excel, Matplotlib, Seaborn
 - 📚 **Modeling**: Logistic Regression, Linear Regression, Decision Trees, Random Forest, k-Nearest Neighbors (k-NN)
 - 🗄️ **Databases**: Postgres, MongoDB, MySQL, BigQuery
 - 🔍 **Data Engineering**: ETL Pipelines, Web Scraping, Data Cleaning
