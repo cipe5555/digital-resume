@@ -111,16 +111,16 @@ st.subheader("Hard Skills")
 st.write(
     """
 - 👩‍💻 **Programming**: Python, Java, C, C++, SQL, Kotlin, Matlab
-- 🛠️ **Data & AI Frameworks**: PyTorch, TensorFlow, Streamlit, Scikit-learn
-- 📊 **Data Visulization**: PowerBI, MS Excel, Matplotlib, Seaborn
-- 📚 **Modeling**: Logistic Regression, Linear Regression, Decision Trees, Random Forest, k-Nearest Neighbors (k-NN)
-- 🗄️ **Databases**: Postgres, MongoDB, MySQL, BigQuery
-- 🔍 **Data Engineering**: ETL Pipelines, Web Scraping, Data Cleaning
-- 🔄 **ETL Tools**: Snowflake, Airflow, Dagster, Prefect
-- 📅 **Project Management**: Jira
+- 🛠️ **Data & AI Frameworks**: PyTorch, TensorFlow, Scikit-learn, LLM Model Fine-tuning, Prompt Engineering, Computer Vision
+- 🔗 **Web & API Development**: FastAPI, Selenium, BeautifulSoup
+- 🗄️ **Databases**: PostgreSQL, MySQL, MongoDB, BigQuery, Snowflake
+- 🔍 **Data Engineering**: ETL Pipelines, Web Scraping, Data Cleaning, Octoparse
+- ⚙️ **ETL & Workflow Tools**: Apache Airflow, Dagster, Prefect, dbt, Mage, Airbyte
+- 📊 **Data Visualization**: Power BI, MS Excel, Matplotlib, Seaborn
+- 📅 **Project Management**: Jira, Scrum
+- ☁️ **Cloud & DevOps**: AWS, GCP, Git
 """
 )
-
 
 # --- WORK HISTORY ---
 st.write('\n')
@@ -128,18 +128,39 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1
+st.write("🚧", "**AI Engineer | Userdata**")
+st.write("Dec 2024 - Present")
+st.write(
+    """
+- ► Developed **3+ APIs** using **FastAPI** to support AI, data engineering, and ML workflows.
+- ► Designed ETL pipelines to process **thousands of records** to structure data in a **frontend-ready format**.
+- ► Fine-tuned **LLM models** for various AI-driven applications, improving accuracy and response relevance.
+- ► Engineered prompt generation techniques to optimize AI-generated justifications.
+"""
+)
+
+# --- JOB 2
+st.write("🚧", "**Data Science Intern (Part-Time) | Hiredly**")
+st.write("Nov 2024 - Present")
+st.write(
+    """
+- ► Designed and maintained **300+ ETL pipelines** using **Airbyte, Mage, and dbt**, improving data ingestion and transformation.
+- ► Performed data scraping from **30+ company careers pages** using **Octoparse**, enhancing job data collection.
+"""
+)
+
+# --- JOB 3
 st.write("🚧", "**Data Science Intern | Hiredly**")
 st.write("08/2023 - 11/2023")
 st.write(
     """
-- ► Performed ETL processes, handling and integrating 500,000+ data points to ensure efficient data management.
-- ► Designed and implemented automated task scheduling, reducing manual work by 30%, and developed 10+ automation scripts for routine tasks.
-- ► Research on developing 2 APIs for ML/Data Ops purposes.
-- ► Optimized the job recommendation system, resulting in a 5% improvement in matching accuracy than previous version and increased user engagement by 10%.
-- ► Research and utilize LLM models to build AI-powered virtual interviewer.
+- ► Performed ETL processes, handling and integrating **500,000+ data points** to ensure efficient data management.
+- ► Designed and implemented automated task scheduling, reducing manual work by **30%**, and developed **10+ automation scripts** for routine tasks.
+- ► Researched and developed **2 APIs** for ML/Data Ops purposes.
+- ► Optimized the job recommendation system, resulting in a **5% improvement** in matching accuracy and increased user engagement by **10%**.
+- ► Researched and utilized LLM models to build an AI-powered virtual interviewer.
 """
 )
-
 
 
 
